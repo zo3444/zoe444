@@ -1,7 +1,8 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ABE4A0&width=435&lines=This+world..." alt="Typing SVG" /></a>
 <p align="center">
-<img width="1280" height="720" alt="tumblr_76057d29b26c2ac0d4c04e387372dfd3_7f4c9434_1280" src="https://github.com/user-attachments/assets/c6f6a977-5639-420f-a474-02773544b420" />
+<img width="2048" height="1430" alt="tumblr_adb9378060d4bc627df11e253d5ba950_dba620c0_2048" src="https://github.com/user-attachments/assets/c5a23cf4-a39d-4030-bf90-e4d4c9525955" />
+
   
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ABE4A0&width=435&lines=its+supposed+to+be" alt="Typing SVG" /></a>
