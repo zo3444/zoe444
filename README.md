@@ -1,13 +1,13 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B9DFF7&width=435&lines=this+world+is+supposed+to+be+infinite" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ABE4A0&width=435&lines=This+world..." alt="Typing SVG" /></a>
 <p align="center">
-<img width="1280" height="720" alt="https://64.media.tumblr.com/adb9378060d4bc627df11e253d5ba950/88a0251b97572fbe-f3/s2048x3072/dba620c03666fbb7b084ad68ebe5675ede9fcc0a.pnj" src="[https://github.com/user-attachments/assets/c6f6a977-5639-420f-a474-02773544b420]" />
+<img width="1280" height="720" alt="tumblr_76057d29b26c2ac0d4c04e387372dfd3_7f4c9434_1280" src="https://github.com/user-attachments/assets/c6f6a977-5639-420f-a474-02773544b420" />
   
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B9DFF7&width=435&lines=Maybe+because+it-+it+reminded+me+of+like," alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ABE4A0&width=435&lines=its+supposed+to+be" alt="Typing SVG" /></a>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B9DFF7&width=435&lines=of+who+you+used+to+be." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ABE4A0&width=435&lines=infinite,+right?" alt="Typing SVG" /></a>
 
 
 <p align="center">
